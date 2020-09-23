@@ -1,0 +1,6 @@
+feedparser
+textgenrnn
+tensorflow
+markovify
+keras
+gensim
