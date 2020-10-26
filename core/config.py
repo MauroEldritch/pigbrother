@@ -30,6 +30,9 @@ generator_loss = 'categorical_crossentropy'
 #Output Count
 generator_output_count = 10
 
+#Markovify Settings (Safe to modify)
+markov_chain_length = 100
+
 #Banners (Safe to modify)
 banner = """
       ,,__

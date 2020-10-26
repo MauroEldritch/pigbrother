@@ -314,7 +314,7 @@ def generate_light(affiliation):
 			text = f.read()
 			text_model = markovify.NewlineText(text)
 		for i in range(10):
-			print(str(i+1) +") " +text_model.make_short_sentence(140))
+			print(str(i+1) +") " +text_model.make_short_sentence(config.markov_chain_length))
 	except:
 		print("[!] Error while trying to generate fake headlines. Please check that your files contain at least 10 entries before proceeding.")
 
