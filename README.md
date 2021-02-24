@@ -87,5 +87,16 @@ The Replicant Test will try to generate fake headlines using Markov chains (with
 
 ![pigbrother.py functional diagram](core/img/pigbrother.png?raw=true "pigbrother.py functions")
 
+## Presentations
+### As Pigbrother
+|#| Date | Conference |  Link to Video | Link to Slides |
+|---|---|---|---|---|
+|1|2020|GrayHat| https://www.youtube.com/watch?v=Ger2u59bqWE | https://docs.google.com/presentation/d/1R72cwAZinC4cgbU_TyxZRZKYpfz4EroKaQ8Az4aiAvA/edit?usp=sharing |
+
+### As VKG
+|#| Date | Conference |  Link to Video | Link to Slides |
+|---|---|---|---|---|
+|1|2021|Machine Learning Utah| - | https://docs.google.com/presentation/d/1-AEVqTtDlrwQ4Ekj7IMycSzEwC3uZUYuxP0rEH1Wd5g/edit?usp=sharing |
+
 ## Credits
 **pigbrother** was created by @[flordiaz9](https://github.com/flordiaz9) and @[mauroeldritch](https://github.com/mauroeldritch) in 2019. 
