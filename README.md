@@ -97,7 +97,7 @@ The Replicant Test will try to generate fake headlines using Markov chains (with
 |#| Date | Conference |  Link to Video | Link to Slides |
 |---|---|---|---|---|
 |1|2021|P0SCon Iran| https://www.youtube.com/watch?v=TEYgkb0Tfc0 | https://drive.google.com/file/d/11jSrcWHsQEGgQVbmHlxG9D0S1DN0o4Pr/view?usp=sharing |
-|2|2021|Machine Learning Utah| - | https://docs.google.com/presentation/d/1-AEVqTtDlrwQ4Ekj7IMycSzEwC3uZUYuxP0rEH1Wd5g/edit?usp=sharing |
+|2|2021|Machine Learning Utah| https://www.youtube.com/watch?v=4ftzEiv6VxI | https://docs.google.com/presentation/d/1-AEVqTtDlrwQ4Ekj7IMycSzEwC3uZUYuxP0rEH1Wd5g/edit?usp=sharing |
 
 ## Credits
 **pigbrother** was created by @[flordiaz9](https://github.com/flordiaz9) and @[mauroeldritch](https://github.com/mauroeldritch) in 2019. 
